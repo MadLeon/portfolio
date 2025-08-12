@@ -1,6 +1,6 @@
 const experiences = [
   {
-    time: "May 2023 - PRESENT",
+    time: "May 2023 - June 2025",
     type: "Bachelor of Technology, Software Engineering",
     name: "McMaster University",
     description:
@@ -13,7 +13,7 @@ const experiences = [
     link: "https://www.mcmaster.ca/",
   },
   {
-    time: "Feb 2023 - Aug 2023",
+    time: "Feb 2023 - Aug 2025",
     type: "Frontend Engineer",
     name: "BBD Insight",
     description:

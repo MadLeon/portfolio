@@ -17,23 +17,17 @@ export default function About() {
         optimizing back-end performance, and delivering robust web solutions.
       </p>
       <p className="mb-4">
-        Currently, I’m pursuing a Bachelor of Technology in Software Engineering
-        at McMaster University while working on innovative web development
+        I recently graduated with a Bachelor of Technology in Software Engineering
+        from McMaster University and am actively working on innovative web development
         projects. I enjoy collaborating with teams to craft user-friendly
         applications and exploring tools like React, Tailwind, and Next.js to
         enhance my technical skillset.
       </p>
       <p className="mb-4">
-        In the past, I’ve had the privilege of contributing as a Front-End
-        Engineer at BBD Insights, where I developed dynamic user interfaces for
-        machine learning models, and as an Application Developer at CIBC, where
-        I adapted legacy systems for cloud migration. I’ve also built various
-        personal and collaborative projects, including a game-focused social
-        media platform and a capital optimization tool.
+        I have been working as a Front-End Engineer at BBD Insights, where I develop dynamic user interfaces for machine learning models and collaborate on innovative web solutions. I’ve also built various personal and collaborative projects, including a social media platform demo and a capital optimization tool.
       </p>
       <p className="mb-4">
-        When I’m not coding, I enjoy woodworking and diving into new video
-        games, often blending creativity with a love for problem-solving.
+        When I’m not coding, I enjoy woodworking, often blending creativity with a love for problem-solving.
       </p>
     </section>
   );

@@ -1,16 +1,23 @@
 const projects = [
   {
     year: "2025",
+    name: "Social Media Demo",
+    organization: "McMaster University",
+    techStack: ["Express.js", "React", "Material UI"],
+    link: "https://social-media-template-chi.vercel.app/",
+  },
+  {
+    year: "2025",
     name: "Portfolio Website",
     organization: "McMaster University",
-    techStack: ["Next.js", "Tailwind", "Typescript"],
+    techStack: ["Next.js", "Tailwind", "TypeScript"],
     link: "https://github.com/MadLeon/portfolio",
   },
   {
     year: "2024",
     name: "Freelancer Website",
     organization: "McMaster University",
-    techStack: ["React", "Tailwind", "Javascript"],
+    techStack: ["React", "Tailwind", "JavaScript"],
     link: "https://j-burrow-electrical.vercel.app/",
   },
   {

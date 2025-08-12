@@ -1,5 +1,15 @@
 const projects = [
   {
+    name: "Full Stack Social Media Demo",
+      description:
+        "A full-stack social media demo built with Express.js, React, and MongoDB. Features include user registration and login, posting, friend management, and liking posts. Demonstrates modern web development practices in authentication, data management, and interactive UI design.",
+    imageName: "spotify",
+    imageUrl: "/social media.png",
+    imageAlt: "Social Media Demo",
+      techStack: ["Express.js", "React", "MongoDB", "Material UI"],
+    link: "https://social-media-template-chi.vercel.app/",
+  },
+  {
     name: "Portfolio Website",
     description:
       "A portfolio showcasing web development project. Highlight my skills in modern web technologies and design",
@@ -8,6 +18,15 @@ const projects = [
     imageAlt: "Portfolio Website",
     techStack: ["Next.js", "Tailwind", "Typescript"],
     link: "https://github.com/MadLeon/portfolio",
+  },
+  {
+    name: "Freelancer Website",
+    description: "Developed a website for a freelancer client",
+    imageName: "J Burrow Electrical",
+    imageUrl: "/jBurrowElectrical.png",
+    imageAlt: "Freelancer Web Site homepage",
+    techStack: ["React", "Tailwind", "Javascript"],
+    link: "https://j-burrow-electrical.vercel.app/",
   },
   {
     name: "Capital Optimizer",
@@ -28,15 +47,6 @@ const projects = [
     imageAlt: "AI Translator homepage",
     techStack: ["Next.js", "Material UI", "OpenAI"],
     link: "https://ai-translator-ruby.vercel.app/translator",
-  },
-  {
-    name: "Freelancer Website",
-    description: "Developed a website for a freelancer client",
-    imageName: "J Burrow Electrical",
-    imageUrl: "/jBurrowElectrical.png",
-    imageAlt: "Freelancer Web Site homepage",
-    techStack: ["React", "Tailwind", "Javascript"],
-    link: "https://j-burrow-electrical.vercel.app/",
   },
 ];
 
